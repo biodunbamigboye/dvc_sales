@@ -1,7 +1,9 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import LandingPage from '@/components/LandingPage.vue'
+</script>
 
 <template>
   <main>
-    <p class="text-red-500">ghgtyugugiu</p>
+    <LandingPage />
   </main>
 </template>
